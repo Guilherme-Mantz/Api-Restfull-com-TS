@@ -1,0 +1,98 @@
+undefined - [32minfo[39m: [32mservidor rodando na porta[39m
+undefined - [32minfo[39m: [32mConectou ao banco[39m
+undefined - [32minfo[39m: [32mservidor rodando na porta[39m
+undefined - [32minfo[39m: [32mConectou ao banco[39m
+undefined - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 12:15:57:1557 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 12:15:57:1557 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 12:26:53:2653 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 12:26:53:2653 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 12:27:12:2712 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 12:27:12:2712 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 12:27:35:2735 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 12:27:35:2735 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 14:35:00:350 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 14:35:00:350 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 14:35:09:359 - [35mhttp[39m: [35mPOST /api/movie 201 149 - 38.036 ms[39m
+[35m[39m
+2022-03-18 14:35:59:3559 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 14:35:59:3559 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 14:36:26:3626 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 14:36:26:3626 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 14:42:30:4230 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 14:42:30:4230 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 14:47:27:4727 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 14:47:27:4727 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 14:48:43:4843 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 14:48:43:4843 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 14:52:16:5216 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 14:52:16:5216 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 14:52:20:5220 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 14:52:20:5220 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 14:53:01:531 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 14:53:01:531 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 14:56:12:5612 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 14:56:12:5612 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 14:56:14:5614 - [35mhttp[39m: [35mPOST /api/movie 201 149 - 43.482 ms[39m
+[35m[39m
+2022-03-18 14:56:27:5627 - [35mhttp[39m: [35mPOST /api/movie 201 149 - 20.490 ms[39m
+[35m[39m
+2022-03-18 14:56:58:5658 - [31merror[39m: [31mErro no sistema: Movie validation failed: rating: Cast to Number failed for value "as" (type string) at path "rating"[39m
+2022-03-18 14:57:07:577 - [35mhttp[39m: [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2022-03-18 14:57:41:5741 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 14:57:41:5741 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 14:57:51:5751 - [35mhttp[39m: [35mPOST /api/movie 422 197 - 8.407 ms[39m
+[35m[39m
+2022-03-18 15:06:26:626 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 15:06:26:626 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 15:07:23:723 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 15:07:23:723 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 15:07:40:740 - [35mhttp[39m: [35mGET /api/getMovie/6234c2cd616fb449e74b0bc2 404 176 - 2.734 ms[39m
+[35m[39m
+2022-03-18 15:08:31:831 - [35mhttp[39m: [35mGET /api/movie/6234c2cd616fb449e74b0bc2 404 33 - 25.581 ms[39m
+[35m[39m
+2022-03-18 15:08:36:836 - [35mhttp[39m: [35mGET /api/movie/6234c2cd616fb449e74b0bc3 200 149 - 150.965 ms[39m
+[35m[39m
+2022-03-18 15:10:43:1043 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 15:10:43:1043 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 15:10:59:1059 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 15:10:59:1059 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 15:11:18:1118 - [35mhttp[39m: [35mGET /api/movies 200 451 - 29.581 ms[39m
+[35m[39m
+2022-03-18 15:16:52:1652 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 15:16:52:1652 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 15:16:54:1654 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 15:16:54:1654 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 15:18:23:1823 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 15:18:23:1823 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 15:19:09:199 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 15:19:09:199 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 15:19:53:1953 - [35mhttp[39m: [35mDELETE /api/movie/6234c2cd616fb449e74b0bc2 404 33 - 24.622 ms[39m
+[35m[39m
+2022-03-18 15:20:11:2011 - [35mhttp[39m: [35mDELETE /api/movie/6234c2cd616fb449e74b0bc3 - - - - ms[39m
+[35m[39m
+2022-03-18 15:21:00:210 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 15:21:00:210 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 15:21:04:214 - [35mhttp[39m: [35mDELETE /api/movie/6234c2cd616fb449e74b0bc3 200 40 - 46.354 ms[39m
+[35m[39m
+2022-03-18 15:21:15:2115 - [35mhttp[39m: [35mGET /api/movies 200 301 - 16.973 ms[39m
+[35m[39m
+2022-03-18 15:24:41:2441 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 15:24:41:2441 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 15:25:07:257 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 15:25:07:257 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 15:27:15:2715 - [35mhttp[39m: [35mPOST /api/movie 201 358 - 43.621 ms[39m
+[35m[39m
+2022-03-18 15:27:20:2720 - [35mhttp[39m: [35mGET /api/movies 200 660 - 21.589 ms[39m
+[35m[39m
+2022-03-18 15:27:56:2756 - [35mhttp[39m: [35mPATCH /api/movie/6234cf0334e81bf256fd3c94 200 360 - 39.441 ms[39m
+[35m[39m
+2022-03-18 15:28:00:280 - [35mhttp[39m: [35mGET /api/movies 200 662 - 13.410 ms[39m
+[35m[39m
+2022-03-18 15:28:29:2829 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 15:28:29:2829 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 15:29:05:295 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 15:29:05:295 - [32minfo[39m: [32mservidor rodando na porta[39m
+2022-03-18 15:30:06:306 - [32minfo[39m: [32mConectou ao banco[39m
+2022-03-18 15:30:06:306 - [32minfo[39m: [32mservidor rodando na porta[39m

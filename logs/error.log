@@ -1,0 +1,1 @@
+2022-03-18 14:56:58:5658 - [31merror[39m: [31mErro no sistema: Movie validation failed: rating: Cast to Number failed for value "as" (type string) at path "rating"[39m
